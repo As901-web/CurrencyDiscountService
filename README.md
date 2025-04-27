@@ -116,7 +116,7 @@ exchange.api.key=your-api-key
 
 ---
 
-#
+# Project Strcture
 CurrencyDiscountService/
 ├── src/
 │   ├── main/
